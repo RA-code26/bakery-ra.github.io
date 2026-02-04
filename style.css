@@ -1,0 +1,83 @@
+body {
+    background-color: pink;
+ 
+   h1 {
+    text-align: center;
+    }
+
+    
+}
+
+.recipe-card {
+    border: 1px solid black;
+    padding: 15px;
+    margin: 10px;
+    background-color: bisque;
+    align-content: center;
+    
+}
+
+
+.header-card {
+    border: 1px solid black;
+    padding: 15px;
+    margin: 10px;
+    background-color: bisque;
+}
+
+body {
+    background-color: pink;
+ 
+   h1 {
+    text-align: center;
+    }
+
+    
+}
+
+.recipes-container {
+    display: flex;
+    gap: 20px;
+}
+
+.cake-container {
+    display: flex;
+    gap: 20px;
+}
+
+.cinnamon-card {
+    border: 1px solid black;
+    padding: 15px;
+    margin: 10px;
+    background-color: bisque;
+    
+}
+
+.item-card {
+    border: 1px solid black;
+    padding: 15px;
+    margin: 10px;
+    background-color: bisque;
+    align-content: center;
+    
+}
+
+.velvet-card {
+    border: 1px solid black;
+    padding: 15px;
+    margin: 10px;
+    background-color: bisque;
+    align-content: center;
+    
+}
+
+.ingredients{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.ingredients-title{
+    text-align: center;
+}
